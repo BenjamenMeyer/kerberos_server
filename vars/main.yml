@@ -10,4 +10,3 @@ kerberos_server_ubuntu_pkg:
   - krb5-kdc 
   - krb5-admin-server
   - python-selinux
-

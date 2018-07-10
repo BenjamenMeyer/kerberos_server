@@ -5,6 +5,3 @@ kerberos_server_kdc_port: 88
 kerberos_server_master_db_pass: foobar
 kerberos_server_kadmin_pass: foobar
 kerberos_server_kadmin_user: benz
-
-
-
